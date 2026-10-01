@@ -210,7 +210,7 @@ Open the URL Streamlit prints (usually `http://localhost:8501`).
 ## 🧠 Model
 
 - Framework: [Ultralytics YOLO](https://docs.ultralytics.com/)
-- Weights: `bestv4.pt` (custom-trained on railway track defect images)
+- Weights: `bestv4.pt` (manual trained yolo26x model)
 - Inference runs on the laptop (GPU recommended)
 
 <!-- Add: dataset source, classes, training settings, mAP / precision / recall -->
@@ -219,12 +219,12 @@ Open the URL Streamlit prints (usually `http://localhost:8501`).
 
 ## 🤝 Contributing
 
-Issues and pull requests are welcome. This is a student prototype, so expect rough edges.
+This is a student prototype, so expect rough edges.
 
-## 📄 License
 
-Add a license (e.g. MIT) — see [choosealicense.com](https://choosealicense.com/).
 
-## 👤 Author
-
-**Faisal** — University student, Bangladesh
+## 👤 Team :
+1.
+2.
+3.
+4. Md. Faisal Sheikh (ME-2210035,BUET,Bangladesh)
