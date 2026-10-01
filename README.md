@@ -224,7 +224,7 @@ This is a student prototype, so expect rough edges.
 
 
 ## 👤 Team :
-1.
-2.
-3.
+1. Aritra Barua (ME-2210002,BUET,Bangladesh)
+2. Kahana Hasan (ME-2210021,BUET,Bangladesh)
+3. Md. Yamin Shahriar (ME-2210033,BUET,Bangladesh)
 4. Md. Faisal Sheikh (ME-2210035,BUET,Bangladesh)
