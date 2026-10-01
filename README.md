@@ -80,14 +80,14 @@ A prototype Unmanned Ground Vehicle (UGV) that patrols a railway track, streams 
 
 | Component | Role |
 |---|---|
-| ESP32-S3-CAM (OV2640) | Video capture, UDP streaming, on-vehicle display |
+| ESP32-S3-CAM (OV3640) | Video capture, UDP streaming, on-vehicle display |
 | ESP8266 | Hall-effect pulse counting, DHT22 readings, pan/tilt control |
 | Arduino Uno | Motor control |
 | 2× BTS7960 motor drivers | Drive four DC motors |
 | A3144E Hall-effect sensor | Wheel odometry (pulse counting on D0) |
 | DHT22 | Temperature / humidity |
 | HC-05 (ZS-040) | Bluetooth serial link to the Arduino (appears as a COM port) |
-| 2× LM2596 buck converters | Voltage regulation |
+| 4× LM2596 buck converters | Voltage regulation |
 | 3S LiPo battery | Power |
 
 > 💡 Add a wiring diagram / photo under `docs/` and link it here.
